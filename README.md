@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ranjith+%F0%9F%91%8B;AWS+Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;VPC+%7C+EC2+%7C+IAM+%7C+Lambda+%7C+CloudWatch;From+Support+Engineer+%E2%86%92+Cloud+Builder+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ranjithramesh&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ranjithramesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjith%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-r)
+[![Profile Views](https://komarev.com/ghpvc/?username=ranjithramesh&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Ranjithramesh201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjith%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ranjithramesh)
 [![Email](https://img.shields.io/badge/Email-rameshranjith201%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rameshranjith201@gmail.com)
 
 </div>
@@ -96,11 +96,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/ranjithramesh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjithramesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Ranjithramesh201">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjithramesh201&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/ranjithramesh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Ranjithramesh201">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithramesh201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -111,7 +111,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ranjithramesh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ranjithramesh201&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -121,7 +121,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Ranjith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranjithramesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ranjithramesh)
+[![Ranjith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjithramesh201&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Ranjithramesh201)
 
 </div>
 
@@ -131,7 +131,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ranjithramesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ranjithramesh)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ranjithramesh201&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ranjithramesh201)
 
 </div>
 
