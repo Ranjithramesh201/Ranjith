@@ -147,7 +147,7 @@ print(me.motto())
 > ![SLA Management](https://img.shields.io/badge/SLA%20Management-38BDAE?style=flat-square)
 > ![Technical Reporting](https://img.shields.io/badge/Technical%20Reporting-BF91F3?style=flat-square)
 
-- 🎯 Resolved **100+ enterprise-level support tickets** via Zoho Desk while maintaining a **90% SLA compliance rate**.
+- 🎯 Resolved **300+ enterprise-level support tickets** via Zoho Desk while maintaining a **90% SLA compliance rate**.
 - 📝 Authored detailed technical reports that helped the operations team **optimize workflows and improve service delivery**.
 - 🔍 Performed advanced network diagnostics using tools like Ping, Traceroute, Nslookup, and Telnet to isolate and resolve complex infrastructure issues.
 - 🤝 Collaborated cross-functionally with engineering and product teams to escalate and close critical incidents efficiently.
@@ -193,7 +193,7 @@ print(me.motto())
 | 🎓 | **Ultimate IT Networking Fundamentals Mastery** | Udemy — Comprehensive networking certification covering TCP/IP, DNS, subnetting, and security protocols |
 | 📊 | **Data Analyst Certification** | ExcelR Solutions — Certified in data analytics, Power BI dashboards, SQL, and Excel automation |
 | 📈 | **Power BI Simulation** | PwC Switzerland — Completed the official PwC Power BI job simulation on Forage |
-| 🏢 | **90% SLA Compliance Rate** | Maintained 90%+ SLA compliance across 100+ enterprise tickets at InstaSafe Technologies |
+| 🏢 | **90% SLA Compliance Rate** | Maintained 90%+ SLA compliance across 300+ enterprise tickets at InstaSafe Technologies |
 | ⚡ | **40% Reporting Overhead Reduction** | Automated dashboards at ExcelR Solutions reduced recurring reporting effort by 40% |
 | 🎓 | **CGPA: 7.91 / 10** | B.E. in ECE — Government College of Engineering, Dharmapuri (2020–2024) |
 | 📝 | **SSLC Score: 94.6%** | Bharathi Balamandir Matric H.S. School (2017–2018) |
@@ -235,7 +235,7 @@ print(me.motto())
 
 *"Build secure. Scale smart. Monitor everything."* ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ranjithramesh)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshranjith201@gmail.com)
 
 </div>
